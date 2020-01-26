@@ -1,5 +1,3 @@
-
-
 var count = 0;
 setInterval(function() {
 	var heart = document.querySelector('.wpO6b');

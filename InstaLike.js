@@ -9,4 +9,4 @@ setInterval(function() {
 		console.log(`You have liked ${count} photos`);
 	}
 	arrow.click();
-}, 3000);
+}, 10000);
